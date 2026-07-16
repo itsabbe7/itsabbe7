@@ -1,8 +1,8 @@
 # hi, i'm beatriz
 
-> computer engineering student
+> i spend my free time playing videogames (nintendo lover), having fun with math and solving algorithm problems as hobby. And i'm a linux user :)
 >
-> i spend my free time playing videogames (nintendo lover), having fun with math and solving algorithm problems as hobby. And i'm a linux user :) 
+> **computer engineering student**
 
 ---
 
