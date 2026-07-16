@@ -1,14 +1,14 @@
-# Hi, I'm Beatriz
+# hi, i'm beatriz
 
-> Computer Engineering student at UNEG
+> computer engineering student
 >
-> I spend my free time on sports, having fun with math and turning algorithm problems into a hobby
+> i spend my free time playing videogames (nintendo lover), having fun with math and solving algorithm problems as hobby. And i'm a linux user :) 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ tech stack
 
-**Languages**
+**languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -18,23 +18,23 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 
-**Databases**
+**databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**
+**tools & platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## About My Projects
+## about my projects
 
-This space is mostly a playground — some projects here are college assignments from my CS degree, and the rest were built **just for fun and entertainment**. Each one is a small experiment, a challenge I set for myself, or simply something I enjoyed building. Nothing too serious, just a student dev having a good time
+this space is mostly a playground. Some projects here are college assignments from my CS degree, and the rest were built **just for fun and entertainment**. Each one is a small experiment, a challenge i set for myself, or simply something i thougth would enjoy building. Just a student dev being a student dev
 
 ---
 
 <p align="center">
-  <sub>Made with ☕ by Me</sub>
+  <sub>made with ☕ by me</sub>
 </p>
