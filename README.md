@@ -1,4 +1,4 @@
-# hi, i'm beatriz
+# hi, i'm beatriz 👋
 
 > i spend my free time playing videogames (nintendo lover), having fun with math and solving algorithm problems as hobby. And i'm a linux user :)
 >
